@@ -1,6 +1,6 @@
 function Button(props) {
   return (
-    <button className={`btn ${props.type}`}>
+    <button className={"btn " + props.type}>
       {props.text}
     </button>
   );

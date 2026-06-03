@@ -10,8 +10,8 @@ function Banner(props) {
         <p>{props.text}</p>
 
         <div className="banner-buttons">
-          <Button text={props.secondaryText} type="secondary" />
           <Button text={props.primaryText} type="primary" />
+          <Button text={props.secondaryText} type="secondary" />
         </div>
 
       </div>
