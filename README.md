@@ -4,6 +4,11 @@ This is a simple React project created as part of my coursework.
 It showcases a collection of my favorite cars using a clean layout.
 
 
+# Quick Look
+<img width="1606" height="894" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/fa3dd7a3-033c-4051-8b07-f4139aaa055a" />
+
+
+
 ## Features
 
 - Header with navigation links  
