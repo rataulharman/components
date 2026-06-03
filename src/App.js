@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-
+import Banner from "./components/Banner";
 
 function App() {
 
@@ -13,6 +13,13 @@ function App() {
   return (
     <>
       <Header navLinks={navLinks} />
+
+      <Banner 
+        title="Be creative"
+        text="Hi My name is Harman and i am making this assignment for my react coures by using the react setup skills. here i attached some photos of famouse cars which i really like."
+        primaryText="Primary"
+        secondaryText="Secondary"
+      />
     </>
   );
 }
