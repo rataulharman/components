@@ -27,9 +27,3 @@ It showcases a collection of my favorite cars using a clean layout.
 - `Button.js` – Reusable button  
 - `Gallery.js` – Displays car images  
 - `Footer.js` – Footer section  
-
-
-## Live Demo
-
-
-l
